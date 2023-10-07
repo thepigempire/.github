@@ -1,1 +1,1 @@
-# Welcome to The Pig Empire's github page
+# Welcome to The Pig Empire's GitHub page
