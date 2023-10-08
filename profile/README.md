@@ -2,4 +2,4 @@
 
 
 
-<a href="https://thepigempire.github.io/technical/backstory.html">Our backstory</a>
+<a href="https://thepigempire.github.io/technical/backstory.html?from=githubpage">Our backstory</a>
